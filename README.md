@@ -6,9 +6,9 @@ Welcome to the **Practice Apps** repository! This repository contains multiple s
 
 ## 📌 Projects Overview
 
-### 🟢 Assigment -1 [ First HTML ]
+### 🟢 Project -1 [ First HTML ]
 
-**📂 Path:** `Assigment-1/`  
+**📂 Path:** `Project-1/`  
 🔹 **Description:** A basic HTML project with two main pages:
 
 - **Restaurant Table Page:** Displays a table for a pasta restaurant named _Trattoria del Sole_, featuring six pasta dishes. This page is designed to practice creating and styling HTML tables.
@@ -19,15 +19,15 @@ Welcome to the **Practice Apps** repository! This repository contains multiple s
 
 <table>
   <tr>
-    <td><img src="images/Trattoria-del-Sole.png" width="400"></td>
-    <td><img src="images/Personal-Data.png" width="400"></td>
+    <td><img src="images/Trattoria-del-Sole.png" width="400" alt="Screenshot-of-trattoria-del-sole"></td>
+    <td><img src="images/Personal-Data.png" width="400" alt="Screenshot-of-personal-data-form"></td>
   </tr>
 </table>
 ---
 
-### 🔵 Assigment -2 [ Engage ]
+### 🔵 Project -2 [ Engage ]
 
-**📂 Path:** `Assigment-2/`  
+**📂 Path:** `Project-2/`  
 🔹 **Description:** A single-page website for a creative agency named _Engage_. The project is designed to practice layout techniques, including:
 
 - `display: inline-block` (used in the first two sections)
@@ -39,7 +39,8 @@ Welcome to the **Practice Apps** repository! This repository contains multiple s
 
 <table>
   <tr>
-    <td><img src="images/Engage.png" width="400"></td>
+    <td><img src="images/Engage.png" width="400" alt="Screenshot-of-Engage-website"></td>
+     <img src="https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="400" alt="Creative-agency-teamwork">
     </tr>
 </table>
 
