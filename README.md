@@ -33,16 +33,14 @@ Welcome to the **Practice Apps** repository! This repository contains multiple s
 - `display: inline-block` (used in the first two sections)
 - `float` (used in sections 3 and 4)
 - Proper use of `background`, `padding`, `margin`, and `border` for structured design.
+
   🔹 **Technologies Used:** HTML, CSS
 
 🖼️ **Screenshots:**
 
-<table>
-  <tr>
-    <td><img src="images/Engage.png" width="400" alt="Screenshot-of-Engage-website"></td>
-     <img src="https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="400" alt="Creative-agency-teamwork">
-    </tr>
-</table>
+<p align="center">
+  <img src="images/Engage.png" width="400" alt="Screenshot-of-Engage-website">
+</p>
 
 ---
 
